@@ -3,7 +3,7 @@
 - [Lautsprecher](#lautsprecher)
 - [Mikrofone](#mikrofone)
 - [Ständer & Stative](#stative)
-- [Wandlertechnik](#stative)
+- [Wandlertechnik](#wandlertechnik)
 - [Kabel](#kabel)
 - [Zubehör](#sonstiges)
 
@@ -71,16 +71,76 @@
 
 ## Stative
 
+### Manfrotto 1051 BAC Alu Stativ schwarz
+- 3 Stk. vorhanden
+
+**1€ / Tag**
+
+### Manfrotto 1004BAC Aluminium Stativ 124-366cm
+- 1 Stk. vorhanden
+
+**1€ / Tag**
+
 **[`^        back to top        ^`](#)**
 
 ## Wandlertechnik
 
+### RME 12mic
+
+- [Details auf der Herstellerseite](https://www.rme-audio.de/de_12mic.html)
+
+**25€ / Tag**
+
+### RME AVB Tool
+
+- [Details auf der Herstellerseite](https://www.rme-audio.de/de_avb-tool.html)
+
+**16€ / Tag**
+
+### RME Digiface AVB
+
+- [Details auf der Herstellerseite](https://www.rme-audio.de/de_digiface-avb.html)
+
+### Presonus SW5E AVB Switch
+
+- [Details auf der Herstellerseite](https://www.presonus.com/produkte/de/SW5E)
+
+**4€ / Tag**
+
+### RME ARC USB
+
+- [Details auf der Herstellerseite](https://www.rme-audio.de/de_arc-usb.html)
+
+**1€ / Tag**
+
+### Recording Setup (12mic + AVB Tool + Digiface AVB + ARC USB + AVB Switch)
+
+**50€/Tag**
+
 **[`^        back to top        ^`](#)**
 
+### RME Babyface v1
+
+- [Details auf der Herstellerseite](https://archiv.rme-audio.de/products/babyface.php)
+
+**4€ / Tag**
+
 ## Kabel
+
+
+
+### Kabeltrommel ProSnake CAT6E 70m 
+
+**2€/Tag**
 
 **[`^        back to top        ^`](#)**
 
 ## Sonstiges
+
+### K&M Stereoschiene 85cm
+
+### K&M Stereoschiene 30cm
+
+### RockNRoller RTR8
 
 **[`^        back to top        ^`](#)**
