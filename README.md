@@ -18,7 +18,7 @@
 
 ### Neumann KH 120 A (Paar) inkl. Transporttasche und Netzkabeln
 
-<!-- ![image alt >](assets/croenmeister/2LCube250.jpg) -->
+ ![KH120 >](assets/croenmeister/KH120.jpg) 
 
 - kompakter 2-Wege Studio-Nahfeldmonitor
 - im Paar 12kg
@@ -36,6 +36,9 @@
 **7€ / Tag**
 
 ## Mikrofone
+
+![Mikrofone >](assets/croenmeister/mics.jpg)
+
 
 ### Neumann KM 183 
 - 4 Stk. vorhanden
@@ -87,17 +90,23 @@
 
 ### RME 12mic
 
+![Mikrofone >](assets/croenmeister/12mic.jpg)
+
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_12mic.html)
 
 **25€ / Tag**
 
 ### RME AVB Tool
 
+![Mikrofone >](assets/croenmeister/kdo.jpg)
+
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_avb-tool.html)
 
 **16€ / Tag**
 
 ### RME Digiface AVB
+
+![Mikrofone >](assets/croenmeister/digiface.jpg)
 
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_digiface-avb.html)
 
@@ -130,6 +139,8 @@
 
 
 ### Kabeltrommel ProSnake CAT6E 70m 
+
+![Mikrofone >](assets/croenmeister/cat6.jpg)
 
 **2€/Tag**
 
