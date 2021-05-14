@@ -1,4 +1,4 @@
-# Vermietung von Audio Equipment | Preisliste
+# Vermietung Pro Audio Equipment
 
 - [Lautsprecher](#lautsprecher)
 - [Mikrofone](#mikrofone)
@@ -26,9 +26,9 @@
 
 ### Genelec 8020 DPM (Paar) inkl. Transporttasche und Netzkabeln
 
+![Genelec8020 >](assets/images/croenmeister/Genelec8020.jpg)
 
-- aktiver 2-Wege Monitor für den mobilen Einsatz z.B. als Talkback
-- im Paar 6kg
+- aktiver 2-Wege Monitor für den mobilen Einsatz z.B. als Talkback / Monitor
 - [Details auf der Herstellerseite](https://www.genelec.com/8020d)
 
 ## Mikrofone
@@ -67,16 +67,48 @@
 ## Stative
 
 ### Manfrotto 1051 BAC Alu Stativ schwarz
+![1051BAC >](assets/images/croenmeister/1051BAC.jpg)
 - 3 Stk. vorhanden
-
+- Gewicht pro Stk: 1kg
+- min. Höhe 75cm
+- max. Höhe 211cm
+- ohne Galgen
 
 ### Manfrotto 1004BAC Aluminium Stativ 124-366cm
+![1004BAC >](assets/images/croenmeister/1004BAC.jpg)
 - 1 Stk. vorhanden
-
+- min. Höhe 124cm
+- max. Höhe 366cm
+- Gewicht: 2,4kg
+- ohne Galgen
 
 ### K&M 210er
-- 5 Stk. vorhanden
+- 3 Stk. vorhanden (davon 1x K&M 210/2; 2x K&M 210/8)
+- 90cm bis 160cm höhenverstellbar
+- mit Galgen
 
+### Noname 210er
+- 3 Stk. vorhanden
+- mit Galgen
+
+### K&M Stereoschiene 85cm
+
+### K&M 236 Stereoschiene 30cm
+
+![km236 >](assets/images/croenmeister/km236.jpg)
+
+### K&M 238 Mikrofon-Halteschiene
+![km238 >](assets/images/croenmeister/km238.jpg)
+
+### Manfrotto Magic Arm 244N und Klemme, flexible Befestigung
+
+### Manfrotto 085 BSL Light Boom | Galgen, Gewicht und Gewinde
+![085BSL >](assets/images/croenmeister/085BSL.JPG)
+- belastungsfähiger Galgen
+- bestehend aus 3 festen Stangen, die zusammengeschraubt werden. Dabei kann auch eine weggelassen werden
+- Auszug max 280cm
+- Auszug min: 100cm
+- 7kg Gegengewicht
 
 **[`^        back to top        ^`](#)**
 
@@ -84,27 +116,29 @@
 
 ### RME 12mic
 
-![Mikrofone >](assets/images/croenmeister/12mic.jpg)
+![12mic >](assets/images/croenmeister/12mic.jpg)
 
 - 12 analoge Inputs (4x XLR-TRS combo, 8x XLR)
 - 1 GigE AVB, 1 x Madi IO coaxial oder LWL
 - 3x Adat Out, Symmetrische Klinke für Kopfhörer oder Talkback
 - fernsteuerbar über Netzwerk
+- RME MADI SFP Module Multi Mode (1 mal vorhanden)
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_12mic.html)
 
 
 ### RME AVB Tool - Router, Mikrofonvorverstärker, MADI-AVB-Wandler und mehr
 
-![Mikrofone >](assets/images/croenmeister/kdo.jpg)
+![avbtool >](assets/images/croenmeister/kdo.jpg)
 - 4 analoge Inputs (4x XLR-TRS combo)
 - 1 Phone Out
 - fernsteuerbar über Netzwerk
+- TalkbackMic t.bone GM 5212 zum direkt anstecken
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_avb-tool.html)
 
 
-### RME Digiface AVB - Audio-Interface AVB
+### RME Digiface AVB - USB-Audio-Interface AVB
 
-![Mikrofone >](assets/images/croenmeister/digiface.jpg)
+![Digiface >](assets/images/croenmeister/digiface.jpg)
 
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_digiface-avb.html)
 
@@ -124,8 +158,12 @@
 
 **[`^        back to top        ^`](#)**
 
-### RME Babyface v1
-
+### RME Babyface v1 - USB Audio-Interface
+![Babyface >](assets/images/croenmeister/babyfacev1.jpg)
+- 10 Eingangs- / 12 Ausgangskanäle
+- 2 x Analog Input
+- 4 x Analog Output
+- 1 x ADAT I/O oder 1 x SPDIF I/O optisch
 - [Details auf der Herstellerseite](https://archiv.rme-audio.de/products/babyface.php)
 
 
@@ -135,17 +173,20 @@
 
 ### Kabeltrommel ProSnake CAT6E 70m 
 
-![Mikrofone >](assets/images/croenmeister/cat6.jpg)
+![cat6 >](assets/images/croenmeister/cat6.jpg)
 
 
 **[`^        back to top        ^`](#)**
 
 ## Sonstiges
 
-### K&M Stereoschiene 85cm
+### RockNRoller R8RT + Shelf als Tischeinsatz
 
-### K&M Stereoschiene 30cm
+![cat6 >](assets/images/croenmeister/RTR8.JPG)
+- Länge verstellbar von 86 - 132 cm
+- Breite 35cm (inkl. Räder 48cm)
+- Gewicht: 12,5kg, Belastbar mit 227kg
+- [Details auf der Herstellerseite](https://rocknrollercart.com/collections/multi-carts/products/r-8-multi-cart)
 
-### RockNRoller RTR8
 
 **[`^        back to top        ^`](#)**
