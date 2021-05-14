@@ -1,4 +1,4 @@
-# Vermietung von Audio Equipment 
+# Vermietung von Audio Equipment | Preisliste
 
 - [Lautsprecher](#lautsprecher)
 - [Mikrofone](#mikrofone)
@@ -24,16 +24,12 @@
 - im Paar 12kg
 - [Details auf der Herstellerseite](https://de-de.neumann.com/kh-120-a-g)
 
-**12€ / Tag**
-
 ### Genelec 8020 DPM (Paar) inkl. Transporttasche und Netzkabeln
 
 
 - aktiver 2-Wege Monitor für den mobilen Einsatz z.B. als Talkback
 - im Paar 6kg
 - [Details auf der Herstellerseite](https://www.genelec.com/8020d)
-
-**7€ / Tag**
 
 ## Mikrofone
 
@@ -44,8 +40,7 @@
 - 4 Stk. vorhanden
 - Kugel
 - [Details auf der Herstellerseite](https://de-de.neumann.com/km-183-series-180)
-
-**14€ / Tag**
+ <br>
 
 ### Neumann KM 184
 - 4 Stk. vorhanden
@@ -53,7 +48,6 @@
 - [Details auf der Herstellerseite](https://de-de.neumann.com/km-184)
 
 
-**11€ / Tag**
 
 ### Neumann TLM 103
 - 1 Stk. vorhanden
@@ -61,14 +55,12 @@
 - [Details auf der Herstellerseite](https://de-de.neumann.com/tlm-103)
 
 
-**9€ / Tag**
 
 ### RØDE NT-5
 - 2 Stk. vorhanden
 - Niere (opt. Wechselkapsel auf Kugel)
 - [Details auf der Herstellerseite](https://de.rode.com/microphones/nt5)
 
-**3€ / Tag**
 
 **[`^        back to top        ^`](#)**
 
@@ -77,12 +69,14 @@
 ### Manfrotto 1051 BAC Alu Stativ schwarz
 - 3 Stk. vorhanden
 
-**1€ / Tag**
 
 ### Manfrotto 1004BAC Aluminium Stativ 124-366cm
 - 1 Stk. vorhanden
 
-**1€ / Tag**
+
+### K&M 210er
+- 5 Stk. vorhanden
+
 
 **[`^        back to top        ^`](#)**
 
@@ -92,39 +86,41 @@
 
 ![Mikrofone >](assets/images/croenmeister/12mic.jpg)
 
+- 12 analoge Inputs (4x XLR-TRS combo, 8x XLR)
+- 1 GigE AVB, 1 x Madi IO coaxial oder LWL
+- 3x Adat Out, Symmetrische Klinke für Kopfhörer oder Talkback
+- fernsteuerbar über Netzwerk
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_12mic.html)
 
-**25€ / Tag**
 
-### RME AVB Tool
+### RME AVB Tool - Router, Mikrofonvorverstärker, MADI-AVB-Wandler und mehr
 
 ![Mikrofone >](assets/images/croenmeister/kdo.jpg)
-
+- 4 analoge Inputs (4x XLR-TRS combo)
+- 1 Phone Out
+- fernsteuerbar über Netzwerk
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_avb-tool.html)
 
-**16€ / Tag**
 
-### RME Digiface AVB
+### RME Digiface AVB - Audio-Interface AVB
 
 ![Mikrofone >](assets/images/croenmeister/digiface.jpg)
 
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_digiface-avb.html)
 
+
 ### Presonus SW5E AVB Switch
 
 - [Details auf der Herstellerseite](https://www.presonus.com/produkte/de/SW5E)
 
-**4€ / Tag**
 
 ### RME ARC USB
 
 - [Details auf der Herstellerseite](https://www.rme-audio.de/de_arc-usb.html)
 
-**1€ / Tag**
 
-### Recording Setup (12mic + AVB Tool + Digiface AVB + ARC USB + AVB Switch)
+### Recording Bundle (12mic + AVB Tool + Digiface AVB + ARC USB + AVB Switch)
 
-**50€/Tag**
 
 **[`^        back to top        ^`](#)**
 
@@ -132,7 +128,6 @@
 
 - [Details auf der Herstellerseite](https://archiv.rme-audio.de/products/babyface.php)
 
-**4€ / Tag**
 
 ## Kabel
 
@@ -142,7 +137,6 @@
 
 ![Mikrofone >](assets/images/croenmeister/cat6.jpg)
 
-**2€/Tag**
 
 **[`^        back to top        ^`](#)**
 
