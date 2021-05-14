@@ -92,15 +92,21 @@
 - mit Galgen
 
 ### K&M Stereoschiene 85cm
+![KM23560 >](assets/images/croenmeister/KM23560.jpg)
+- 1 Stk. vorhanden
 
 ### K&M 236 Stereoschiene 30cm
 
 ![km236 >](assets/images/croenmeister/km236.jpg)
+- 1 Stk. vorhanden
 
 ### K&M 238 Mikrofon-Halteschiene
 ![km238 >](assets/images/croenmeister/km238.jpg)
+- 2 Stk. vorhanden
 
 ### Manfrotto Magic Arm 244N und Klemme, flexible Befestigung
+![magicarm >](assets/images/croenmeister/MagicArm.jpg)
+- 1 Stk. vorhanden
 
 ### Manfrotto 085 BSL Light Boom | Galgen, Gewicht und Gewinde
 ![085BSL >](assets/images/croenmeister/085BSL.JPG)
@@ -109,6 +115,7 @@
 - Auszug max 280cm
 - Auszug min: 100cm
 - 7kg Gegengewicht
+- inkl. Tragetasche
 
 **[`^        back to top        ^`](#)**
 
@@ -182,8 +189,8 @@
 
 ### RockNRoller R8RT + Shelf als Tischeinsatz
 
-![cat6 >](assets/images/croenmeister/RTR8.JPG)
-- Länge verstellbar von 86 - 132 cm
+![R8RT >](assets/images/croenmeister/RTR8.JPG)
+- Länge verstellbar von 86 - 132 cm (Auf Bild etwa 1/3 ausgezogen)
 - Breite 35cm (inkl. Räder 48cm)
 - Gewicht: 12,5kg, Belastbar mit 227kg
 - [Details auf der Herstellerseite](https://rocknrollercart.com/collections/multi-carts/products/r-8-multi-cart)
