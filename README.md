@@ -37,27 +37,30 @@
 
 
 ### Neumann KM 183 
-- 4 Stk. vorhanden
+- 4 Stk
 - Kugel
 - [Details auf der Herstellerseite](https://de-de.neumann.com/km-183-series-180)
  <br>
 
 ### Neumann KM 184
-- 4 Stk. vorhanden
+- 4 Stk 
 - Niere
 - [Details auf der Herstellerseite](https://de-de.neumann.com/km-184)
 
-
-
 ### Neumann TLM 103
-- 1 Stk. vorhanden
+- 1 Stk
 - Niere
 - [Details auf der Herstellerseite](https://de-de.neumann.com/tlm-103)
 
+### Austrian Audio OC818 
+- 2 Stk
+- umschaltbare Richtcharakteristik: Kugel, Niere, Superniere, Acht
+- [Details auf der Herstellerseite](https://www.thomann.de/de/austrian_audio_oc818_studio_set.htm)
+ <br>
 
 
 ### RØDE NT-5
-- 2 Stk. vorhanden
+- 2 Stk
 - Niere (opt. Wechselkapsel auf Kugel)
 - [Details auf der Herstellerseite](https://de.rode.com/microphones/nt5)
 
