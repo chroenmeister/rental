@@ -43,7 +43,7 @@
  <br>
 
 ### Neumann KM 184
-- 4 Stk 
+- 6 Stk 
 - Niere
 - [Details auf der Herstellerseite](https://de-de.neumann.com/km-184)
 
@@ -54,7 +54,7 @@
 
 ### Austrian Audio OC818 
 - 2 Stk
-- umschaltbare Richtcharakteristik: Kugel, Niere, Superniere, Acht
+- umschaltbare Richtcharakteristik: Kugel, Niere, Superniere, Acht, mit Adapter kann man beide Kapseln vorn und hinten abgreifen
 - [Details auf der Herstellerseite](https://www.thomann.de/de/austrian_audio_oc818_studio_set.htm)
  <br>
 
